@@ -1,4 +1,4 @@
-# BANK ACCOUNT MANAGEMENT SYSTEM
+# Bank Account Management System
 The system is going to consist of two main parts, the administrator and the user.
 The administrator as the manager of the company will have the control of the budget,
 you can deposit or withdraw the money from the bank account, also you can register
@@ -8,7 +8,7 @@ On the other side the user can only withdraw the money from the bank account, bu
 to do this the user has to be in the system already registered by the administrator,
 otherwise there won’t be any other way to access the system.
 
-# TEAM MEMBERS
+# Team Members
 * Karla Dinorah Valdivieso Ramos
 * Wendolynee Macharro Armadillo
 * José Alfredo Peña Mejía
