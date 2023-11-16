@@ -1,0 +1,7 @@
+NEXT FEATURES
+
+Admin operations
+-Select a member and perform the delete and update
+-Modify admin account
+-Filter operations by date
+-Filter members by usernames or ID's
