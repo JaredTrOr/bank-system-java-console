@@ -1,4 +1,4 @@
-package com.FileHandlers;
+package com.filehandlers;
 
 import java.io.*;
 import java.util.HashMap;
